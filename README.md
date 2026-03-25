@@ -10,8 +10,8 @@ Building at the intersection of genomics, clinical NLP, and deep learning.
 
 ### What I'm working on
 
-- 🧬 Cancer subtype classification from TCGA RNA-seq data
-- 🔬 Biomedical NER with BioBERT on clinical text
+- 🧬 Cancer subtype classification from TCGA RNA-seq data(completed)
+- 🔬 Biomedical NER with BioBERT on clinical text(completed)
 - 💊 Drug-target interaction prediction with graph neural networks
 - 🏥 End-to-end clinical NLP pipeline on MIMIC-III
 
